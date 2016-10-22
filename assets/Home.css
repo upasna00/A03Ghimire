@@ -1,0 +1,38 @@
+body{
+	background-image: url(bg0.jpg);
+	background-repeat: repeat-x;
+
+}
+
+.h1{
+	color: #8b4513;
+	font-size: 30px;
+	font-family: sans-serif;
+}
+.order{
+
+    margin-top: 20px;
+}
+.selectOrders, .home, .about{
+	padding: 30px;
+	background: #e1ffff; /* Old browsers */
+	background: -moz-linear-gradient(top,  #e1ffff 0%, #fdffff 0%, #fdffff 2%, #e1ffff 7%, #e1ffff 12%, #e6f8fd 30%, #c8eefb 54%, #bee4f8 75%, #b1d8f5 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #e1ffff 0%,#fdffff 0%,#fdffff 2%,#e1ffff 7%,#e1ffff 12%,#e6f8fd 30%,#c8eefb 54%,#bee4f8 75%,#b1d8f5 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #e1ffff 0%,#fdffff 0%,#fdffff 2%,#e1ffff 7%,#e1ffff 12%,#e6f8fd 30%,#c8eefb 54%,#bee4f8 75%,#b1d8f5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1ffff', endColorstr='#b1d8f5',GradientType=0 ); /* IE6-9 */
+	border-radius: 2%;
+}
+.home{
+	padding-bottom: 40px;
+}
+.text{
+	color: #8b4513;
+	font-family: sans-serif;
+
+}
+.text1{
+	color: #8b4513;
+	font-family: sans-serif;
+	font-size: 30px;
+
+}

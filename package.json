@@ -1,0 +1,18 @@
+{   "name": "A03",
+    "version": "0.0.1",
+    "description": "A03 web",
+    "main": "gbapp.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest"
+    },
+    "author": "Upashana Ghimire",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+     "license": "Apache-2.0"
+}
